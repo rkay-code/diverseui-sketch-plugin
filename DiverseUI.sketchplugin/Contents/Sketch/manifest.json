@@ -1,0 +1,41 @@
+{
+  "name": "Diverse UI",
+  "description": "Discover diverse user images for UI design",
+  "author": "Yefim Vedernikoff and Renee Padgham",
+  "homepage": "https://www.diverseui.com",
+  "version": 1.0,
+  "identifier": "com.diverseui.sketch",
+  "commands" : [
+    {
+      "name" : "Female",
+      "identifier" : "diverseui-female",
+      "shortcut" : "command shift f",
+      "script" : "fill.js",
+      "handler" : "onRun"
+    },
+    {
+      "name" : "Male",
+      "identifier" : "diverseui-male",
+      "shortcut" : "command shift m",
+      "script" : "fill.js",
+      "handler" : "onRun"
+    },
+    {
+      "name" : "Neutral",
+      "identifier" : "diverseui-neutral",
+      "shortcut" : "command shift d",
+      "script" : "fill.js",
+      "handler" : "onRun"
+    }
+  ],
+  "menu" : {
+    "title": "Diverse UI",
+    "isroot": false,
+    "items": [
+      "diverseui-female",
+      "diverseui-male",
+      "diverseui-neutral"
+    ]
+  }
+}
+
