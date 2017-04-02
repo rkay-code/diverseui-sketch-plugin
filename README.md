@@ -9,6 +9,10 @@ The official Sketch plugin for [Diverse UI](https://www.diverseui.com).
 
 * Filter by gender
 
+## Installation
+
+[Download and install it manually.](https://github.com/reneepadgham/diverseui-sketch-plugin/archive/master.zip)
+
 ## Contributors
 
 * [Yefim](https://twitter.com/yefim)
