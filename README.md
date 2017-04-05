@@ -11,6 +11,10 @@ The official Sketch plugin for [Diverse UI](https://www.diverseui.com).
 
 * Filter by gender
 
+## Demo
+
+![demo](/demo.gif?raw=true)
+
 ## Installation
 
 You can find the plugin in the [Sketch Toolbox](http://sketchtoolbox.com/).
