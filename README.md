@@ -17,7 +17,7 @@ The official Sketch plugin for [Diverse UI](https://www.diverseui.com).
 
 ## Installation
 
-You can install the plugin from [Sketchpacks](https://sketchpacks.com/) or [Sketch Toolbox](http://sketchtoolbox.com/).
+You can install the plugin from [Sketchpacks](https://sketchpacks.com/reneepadgham/diverseui-sketch-plugin) or [Sketch Toolbox](http://sketchtoolbox.com/).
 
 You can also [download and install it manually](https://github.com/reneepadgham/diverseui-sketch-plugin/archive/master.zip).
 
