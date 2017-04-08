@@ -13,7 +13,7 @@ The official Sketch plugin for [Diverse UI](https://www.diverseui.com).
 
 ## Demo
 
-![demo](/demo.gif?raw=true)
+![demo](https://i.imgur.com/DuWwjkJ.gif)
 
 ## Installation
 
