@@ -100,5 +100,10 @@ function fetchUrl(url) {
 function generateImageData(url) {
   var url = [[NSURL alloc] initWithString: url];
   var newImage = [[NSImage alloc] initByReferencingURL:url];
-  return MSImageData.alloc().initWithImage_convertColorSpace(newImage, false)
+  if (MSApplicationMetadata.metadata().appVersion < 47) {
+    var imageData = MSImageData.alloc().initWithImage_convertColorSpace(newImage, false);
+  } else {
+    var imageData = MSImageData.alloc().initWithImage(newImage);
+  }
+  return imageData
 }
