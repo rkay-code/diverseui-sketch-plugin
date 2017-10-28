@@ -3,7 +3,7 @@
   "description": "Fill your designs with photos of diverse users. Resource for images, avatars, and content.",
   "author": "Yefim Vedernikoff and Renee Padgham",
   "homepage": "https://www.diverseui.com",
-  "version": 1.0,
+  "version": 1.1,
   "identifier": "com.diverseui.sketch",
   "commands" : [
     {
