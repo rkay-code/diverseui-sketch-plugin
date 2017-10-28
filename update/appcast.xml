@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Diverse UI</title>
+    <link>https://raw.githubusercontent.com/reneepadgham/diverseui-sketch-plugin/master/update/appcast.xml</link>
+    <description>Fill your designs with photos of diverse users. Resource for images, avatars, and content.</description>
+    <language>en</language>
+      <item>
+        <title>Version 1.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+            <li>Sketch 47 bug fixes</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/reneepadgham/diverseui-sketch-plugin/archive/1.1.zip" sparkle:version="1.1" />
+      </item>
+  </channel>
+</rss>
