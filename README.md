@@ -1,6 +1,8 @@
 Diverse UI Sketch Plugin
 ============================
 
+:warning: Currently broken because of a Sketch update. PRs welcome! :warning:
+
 Fill your designs with photos of diverse users. Resource for images, avatars, and content.
 
 The official Sketch plugin for [Diverse UI](https://www.diverseui.com).
